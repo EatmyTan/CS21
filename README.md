@@ -1,2 +1,2 @@
 # CS21
-Lab Exercises I've coded during my freshman year
+Things I coded during my Freshman years
